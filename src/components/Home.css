@@ -1,0 +1,29 @@
+.hero-img{
+    max-height:900px;
+    min-height:300px;
+    border-radius: 15px;
+    padding-bottom:30px;
+}
+.card{
+    border-radius:15px;
+    background: rgb(57,148,96);
+    background: linear-gradient(229deg, rgba(57,148,96,1) 0%, rgba(22,226,110,1) 35%, rgba(143,255,197,1) 89%);
+}
+.first-text{
+    padding-bottom:7px;
+    padding-top:7px;
+    text-align:center;
+    color:white;
+    font-weight:700;
+    font-size:60px;
+}
+.body{
+    background: rgb(57,188,191);
+background: radial-gradient(circle, rgba(57,188,191,1) 0%, rgba(48,227,222,1) 50%, rgba(227,238,232,1) 98%);
+background-size: cover;
+}
+footer{
+    background-color: black;
+    color:white;
+}
+
